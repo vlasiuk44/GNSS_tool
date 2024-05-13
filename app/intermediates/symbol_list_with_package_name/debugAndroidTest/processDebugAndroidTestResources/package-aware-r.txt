@@ -1,0 +1,3 @@
+com.example.ggg2.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
